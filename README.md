@@ -1,4 +1,4 @@
-# hostel-app-ui
+# HOSTEL APP UI
 Prototype & Ui design for project.
 
 # Signin - Signup Screens:
