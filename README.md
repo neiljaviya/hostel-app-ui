@@ -11,4 +11,4 @@ Prototype & Ui design for project.
 ![Student Module](https://github.com/neiljaviya/hostel-app-ui/blob/main/Screenshots/Student_module.png?raw=true)
 
 # Forget Password Screen:
-![Student Module](https://github.com/neiljaviya/hostel-app-ui/IMG-20210809-WA0029.jpg?raw=true)
+![Student Module](https://github.com/neiljaviya/hostel-app-ui/blob/main/IMG-20210809-WA0029.jpg?raw=true)
