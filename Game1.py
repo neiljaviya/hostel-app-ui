@@ -40,7 +40,7 @@ if a== None:
 elif a == True:
     print("You Win !!")
 else:
-    print("You lose!"
+    print("You lose!")
 
 
 
